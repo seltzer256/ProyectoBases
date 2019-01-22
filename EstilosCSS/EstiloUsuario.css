@@ -1,0 +1,96 @@
+﻿
+#top 
+{
+    background-color: aquamarine;
+    height: auto;
+    width:1513px;
+    margin-bottom: 87px;
+}
+#botones {    width: 178px;
+              align-content:center;
+}
+#h1 {
+    color: white;
+}
+.button {
+    background-color: blue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    heigth: 20px;
+    width: 300px;
+}
+
+
+.button2 {
+    background-color: blue;
+}
+/* Blue */
+.button3 {
+    background-color: blue;
+}
+/* Red */
+.button4 {
+    background-color: blue;
+}
+/* Gray */
+.button5 {
+    background-color: blue;
+}
+/* Black */
+.button6 {
+    background-color: blue;
+}
+
+h1 {
+    color: white;
+}
+.seccion {
+    /* border-style:inset;
+                    position: relative;
+                    left: 300px;
+                    width: 600px;
+                    height: 650px;
+                    top: 300px;*/
+}
+
+.seccion1 {
+    /*border-style:inset;*/
+    /*position: relative;
+                    left: 10px;
+                    width: 100px;
+                    height: 650px;*/
+}
+
+th, td {
+    width: 25%;
+    text-align: left;
+}
+.tabla {
+    border:solid
+}
+
+.arriba {
+    vertical-align: top;
+}
+
+.colores {
+    background-color: royalblue;
+}
+
+.colores1 {
+    background-color: slateblue;
+}
+
+.auto-style1 {
+    width: 9%;
+}
+h2 {
+    font-size: 16px;
+}

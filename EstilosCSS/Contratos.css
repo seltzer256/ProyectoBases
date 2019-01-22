@@ -1,0 +1,115 @@
+﻿body {
+    margin: 0px;
+    background-image: url(../Imagenes/bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    left: -0px;
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.LogoUniplex {
+    border-width: 0px;
+    position: absolute;
+    left: 0px;
+    top: -21px;
+    width: 313px;
+    height: 129px;
+}
+
+.tablaDatos {
+    position: absolute;
+    left: 450px;
+    top: 260px;
+}
+
+.btnAtras {
+    border-width: 0px;
+    position: absolute;
+    left: 106px;
+    top: 222px;
+    width: 101px;
+    height: 107px;
+}
+
+.btnClientes {
+    border-width: 0px;
+    position: absolute;
+    left: 106px;
+    top: 492px;
+    width: 101px;
+    height: 93px;
+}
+
+#u222_div {
+    border-width: 0px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 893px;
+    height: 606px;
+    background: inherit;
+    background-color: rgba(255, 255, 255, 0);
+    box-sizing: border-box;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgba(188, 188, 188, 1);
+    border-radius: 20px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#u222 {
+    border-width: 0px;
+    position: absolute;
+    left: 357px;
+    top: 166px;
+    width: 893px;
+    height: 606px;
+}
+
+#u222_text {
+    border-width: 0px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0px;
+    visibility: hidden;
+    word-wrap: break-word;
+}
+
+.lblContratos {
+    border-width: 0px;
+    position: absolute;
+    left: 450px;
+    top: 190px;
+    width: 243px;
+    height: 37px;
+    font-family: 'Arial Bold', 'Arial';
+    font-weight: 700;
+    font-style: normal;
+    font-size: xx-large;
+    color: #FFFFFF;
+    white-space: nowrap;
+}
+
+.btnGuardar {
+    border-width: 0px;
+    position: absolute;
+    left: 450px;
+    top: 680px;
+}
+
+
+.btnLimpiar {
+    border-width: 0px;
+    position: absolute;
+    left: 600px;
+    top: 680px;
+}

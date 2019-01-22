@@ -1,0 +1,55 @@
+﻿body {
+    margin: 0px;
+    background-image: url(../Imagenes/bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    left: -0px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.LogoUniplex {
+    border-width: 0px;
+    position: initial;
+    left: 0px;
+    top: -21px;
+    width: 313px;
+    height: 129px;
+    margin-left: 100px;
+}
+
+.btnAtras {
+    border-width: 0px;
+    position: absolute;
+    left: 106px;
+    top: 150px;
+    width: 101px;
+    height: 107px;
+}
+
+.tabla {
+    position: absolute;
+    left: 106px;
+    top: 300px;
+}
+
+.lblAtras {
+    border-width: 0px;
+    position: absolute;
+    left: 250px;
+    top: 185px;
+    width: 243px;
+    height: 37px;
+    font-family: 'Arial Bold', 'Arial';
+    font-weight: 700;
+    font-style: normal;
+    font-size: xx-large;
+    color: #FFFFFF;
+    white-space: nowrap;
+    margin-bottom: 100px;
+}
